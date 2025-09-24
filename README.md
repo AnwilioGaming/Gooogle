@@ -2,4 +2,4 @@
 
 [Google.com](http://www.google.com)
 
-[Google.com](chrome://newtab)
+[Google.com](https://chrome://newtab)
