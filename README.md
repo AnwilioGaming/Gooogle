@@ -8,6 +8,8 @@
 
 [HCTI](https://itch.io)
 
+[SP](https://open.spotify.com/)
+
 [FOR THR PRC](https://www.bilibili.com/)
 
 [Yulin](https://yulin-w.github.io/making-history-sandbox/)
